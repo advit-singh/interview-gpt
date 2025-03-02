@@ -38,7 +38,7 @@ Interview GPT is an AI-powered interview preparation assistant that helps you pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/interview-gpt.git
+git clone https://github.com/advit-singh/interview-gpt.git
 cd interview-gpt
 ```
 
